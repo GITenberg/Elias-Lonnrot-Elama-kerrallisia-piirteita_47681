@@ -1,0 +1,24 @@
+_repo: Elias-Lonnrot-Elama-kerrallisia-piirteita_47681
+creator:
+  author:
+    agent_name: Ahlqvist, August
+    alias: Oksanen, A.
+    birthdate: 1826
+    deathdate: 1889
+    gutenberg_agent_id: '25127'
+    url: http://www.gutenberg.org/2009/agents/25127
+    wikipedia: http://fi.wikipedia.org/wiki/August_Ahlqvist
+description: ''
+gutenberg_issued: '2014-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47681'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lönnrot, Elias, 1802-1884'
+- !lcc 'PH'
+title: 'Elias Lönnrot: Elämä-kerrallisia piirteitä'
+url: http://www.gutenberg.org/ebooks/47681
