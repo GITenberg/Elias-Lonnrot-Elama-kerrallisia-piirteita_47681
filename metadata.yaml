@@ -1,4 +1,8 @@
 _repo: Elias-Lonnrot-Elama-kerrallisia-piirteita_47681
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ahlqvist, August
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25127
     wikipedia: http://fi.wikipedia.org/wiki/August_Ahlqvist
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47681#Elias-Lonnrot-Elama-kerrallisia-piirteita
 gutenberg_issued: '2014-12-17'
 gutenberg_type: Text
 identifiers:
